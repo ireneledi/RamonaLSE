@@ -1,4 +1,27 @@
-#palabras
-a=a_anim
-#abecedario
-video=video_anim
+a = a_anim
+b = b_anim
+c = c_anim
+d = d_anim
+e = e_anim
+f = f_anim
+g = g_anim
+h = h_anim
+i = i_anim
+j = j_anim
+k = k_anim
+l = l_anim
+m = m_anim
+n = n_anim
+o = o_anim
+p = p_anim
+q = q_anim
+r = r_anim
+s = s_anim
+t = t_anim
+u = u_anim
+v = v_anim
+w = w_anim
+x = x_anim
+y = y_anim
+z = z_anim
+video = video_anim
