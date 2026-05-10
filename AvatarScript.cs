@@ -17,7 +17,7 @@ public class LSEPlayableBridge : MonoBehaviour
     public float segundosTransicion = 0.15f;
 
     [Header("Configuración UDP")]
-    public int puerto = 9;
+    public int puerto = 9000;
 
     private PlayableGraph graph;
     private AnimationMixerPlayable mixer;
