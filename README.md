@@ -9,10 +9,10 @@ tomando como entrada tanto audio como texto.
 
 El proyecto contempla un flujo compuesto por las siguientes etapas:
 
-- **Transcripción de audio** con [Whisper.cpp](https://github.com/ggerganov/whisper.cpp).
-- **Traducción a glosas LSE** a partir del corpus sintético de [ruLSE](https://github.com/spel-uchile/RuLSE).
-- **Extracción de landmarks** de vídeos de signantes del corpus [DILSE](https://dilse.org/) con [MediaPipe](https://mediapipe.dev/).
-- **Síntesis de animaciones** a partir de los landmarks extraídos, generadas en [Blender](https://www.blender.org/) e integradas en [Unity](https://unity.com/).
+- **Transcripción de audio** con Whisper.cpp.
+- **Traducción a glosas LSE** a partir del corpus sintético de ruLSE.
+- **Extracción de landmarks** de vídeos de signantes del corpus DILSE con MediaPipe.
+- **Síntesis de animaciones** a partir de los landmarks extraídos, generadas en Blender e integradas en Unity.
 - **Interfaz interactiva** que integra el pipeline completo, permitiendo obtener la representación en LSE de cualquier frase en tiempo real.
 
 ## Estructura del repositorio
