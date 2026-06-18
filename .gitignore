@@ -9,3 +9,4 @@ videos/
 whisper.cpp/
 *.DS_Store
 .DS_Store
+.gitignore
