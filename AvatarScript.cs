@@ -104,7 +104,7 @@ public class LSEPlayableBridge : MonoBehaviour
             yield break;
         }
 
-        // Idle → primer signo
+        // Idle -> primer signo
         yield return BridgeToNext(idleClip, clipsCargados[0]);
 
         // Signos con transiciones entre ellos
@@ -139,7 +139,6 @@ public class LSEPlayableBridge : MonoBehaviour
     }
 
     // Transición entre clips
-
     IEnumerator BridgeToNext(AnimationClip from, AnimationClip to)
     {
         float fixedY = animator.transform.position.y;
