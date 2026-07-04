@@ -160,3 +160,8 @@ hola,HOLA
 hoá,HOÁ 
 este es un vídeo de demostración,ESTE VÍDEO DEMOSTRACIÓN 
 Este es un vídeo de demostración .,ESTE VÍDEO DEMOSTRACIÓN 
+Hola ?,HOLA-NP 
+hola,HOLA 
+Hola .,HOLA-NP 
+"Hola , ¿ qué tal estás ?",TÚ HOLA TAL QUÉ 
+hola qué tal estaás,YO HOLAR TAL ESTAÁS QUÉ 
